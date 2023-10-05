@@ -1,5 +1,5 @@
 ## Simple API using Flask
-`test`
+`among us`
 
 
 ### Run using flask
