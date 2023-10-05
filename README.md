@@ -1,6 +1,4 @@
 ## Simple API using Flask
-`test`
-
 
 ### Run using flask
 `python app/app.py`
