@@ -10,3 +10,4 @@
 `python -m unit_test`
 
 ### TEST COMMIT
+`git commit "test"`
